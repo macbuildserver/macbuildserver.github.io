@@ -1,9 +1,0 @@
-
-http://macbuildserver.github.io/archive.html
-http://macbuildserver.github.io/atom.xml
-http://macbuildserver.github.io/categories.html
-http://macbuildserver.github.io/index.html
-http://macbuildserver.github.io/pages.html
-http://macbuildserver.github.io/rss.xml
-http://macbuildserver.github.io/sitemap.txt
-http://macbuildserver.github.io/tags.html
