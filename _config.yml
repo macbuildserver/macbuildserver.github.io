@@ -83,7 +83,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : macbuildserver
+      short_name : macbuildserver-blog
 
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
