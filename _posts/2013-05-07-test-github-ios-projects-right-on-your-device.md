@@ -22,7 +22,7 @@ Also, you don't need even desktop/notebook to do that. Just link to GitHub repo 
 ![Signing Options]({{ site.url }}/images/try_form/signing_options.PNG)
 
 4. Click 'Install app via OTA' button.
-![Install app via OTA]({{ site.url }}/images/try_form/signing_options.PNG)
+![Install app via OTA]({{ site.url }}/images/try_form/install_ipa_ota.PNG)
 
 5. Enjoy it! :-)
 
