@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to run GitHub iOS project on your device in seconds without XCode?"
-description: ""
+description: "Definitive guide about how to use MacBuildServer to build any GitHub project"
 category: 
 tags: ["iOS", "without", "xcode", "howto", "build", ".ipa"]
 ---

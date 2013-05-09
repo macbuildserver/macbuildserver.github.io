@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How MacBuildServer helps OpenSource"
-description: ""
+description: "MacBuildServer and OpenSource. Offering great experience for visitors of GitHub pages, giving authors instrument to make project more social and attractive for maintainers and developers"
 category: 
 tags: ["github", "opensource", "install button"]
 ---

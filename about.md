@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About us"
-description: "About MacBuildServer service and team"
+title: "About MacBuildServer team"
+description: "About MacBuildServer service and team. History of the company and it's mission and founders"
 ---
 
 We started in early 2011 as consulting company, helping another software companies
