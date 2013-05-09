@@ -3,7 +3,7 @@ layout: post
 title: "How to run GitHub iOS project on your device in seconds without XCode?"
 description: ""
 category: 
-tags: []
+tags: ["iOS", "without", "xcode", "howto", "build", ".ipa"]
 ---
 
 Assume you've found some promising iOS library or framework on GitHub, which ideally fits your needs. For example, be [QuickDialogs](https://github.com/escoz/quickdialog). 
