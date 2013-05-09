@@ -30,9 +30,9 @@ His product management and sales skills and personal qualitities are highly impo
 
 Serge Dmitriev
 --------------
-Serial enterpreuner from Norway. Agile management methodologies coaching trainer, founder of [Agile42](http://http://www.agile42.com/en/) and a lot of another companies. 
+Serial entrepreneur from Norway. Agile coach and trainer, founder of [Agile42](http://www.agile42.com/) and a happy man.
 
-He bring us opportunities and massive expertise in Lean Startup methodology and enterpreunership at all. It would be impossible to develop our product without his talented facilitation
+He brings us opportunities and massive expertise in Lean Startups and enterpreunership. It would be impossible to develop our product without his talented facilitation.
 
 [Connect Serge on LinkedIn](http://no.linkedin.com/in/sergeydmitriev)
 
