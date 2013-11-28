@@ -14,6 +14,7 @@ So any user who received link like that "http://udid.io/?mail=your@mail.com" wil
 to your e-mail.
 
 Did you know? [UDID.io](http://udid.io/) shows securely not only UDID, but Serial No., Product ID and IMEI of Apple's devices.
-[Go and try UDID.io](http://udid.io/)!
+
+[Go and try UDID.io](http://udid.io/) to find UDID of your device!
 
 
